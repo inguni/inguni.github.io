@@ -1,0 +1,18 @@
+{
+    "menu_about": "About",
+    "menu_services": "Services",
+    "menu_work": "Work",
+    "menu_contact": "Contact",
+    "home_description": "We have extensive experience in the necessary procedures for foreigners wishing to invest or reside in Spain.",
+    "contact_title": "Contact",
+    "contact_subheading": "Any questions? Please, feel free to ask.",
+    "contact_phone": "Phone / WhatsApp",
+    "contact_address": "Address",
+    "contact_mail": "E-Mail",
+    "contact_name": "Name",
+    "contact_mail_address": "E-Mail address",
+    "contact_more_info": "Give us more information",
+    "contact_write_question": "Write your question.",
+    "contact_required_fields": "Required fields.",
+    "contact_submit": "Submit"
+}

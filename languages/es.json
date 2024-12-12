@@ -1,0 +1,18 @@
+{
+    "menu_about": "Sobre nosotros",
+    "menu_services": "Servicios",
+    "menu_work": "Nuestro trabajo",
+    "menu_contact": "Contacto",
+    "home_description": "Tenemos una extensa experiencia en los procedimientos necesarios para los extranjeros que quieran vivir o invertir en España.",
+    "contact_title": "Contacto",
+    "contact_subheading": "¿Tiene alguna pregunta? Por favor, siéntase libre de dirigirse a nosotros.",
+    "contact_phone": "Teléfono / WhatsApp",
+    "contact_address": "Dirección",
+    "contact_mail": "E-Mail",
+    "contact_name": "Nombre",
+    "contact_mail_address": "Dirección de e-mail",
+    "contact_more_info": "Danos más información",
+    "contact_write_question": "Escriba su pregunta.",
+    "contact_required_fields": "Campos obligatorios.",
+    "contact_submit": "Enviar"
+}
